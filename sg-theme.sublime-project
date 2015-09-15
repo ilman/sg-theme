@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"name": "sg-theme",
+			"folder_exclude_patterns":
+			[
+				"theme2/vendor",
+				"theme2/node_modules"
+			],
+			"path": "/D/Htdocs/theme2"
+		}
+	]
+}
